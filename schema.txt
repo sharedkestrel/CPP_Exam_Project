@@ -1,0 +1,40 @@
+* Caricamento (da ripetersi)
+
+* Titolo (immagine, schiavizzare qualcuno per farla)
+
+* Menù
+   - nuova partita
+   - carica partita (stato salvato in file?)
+   - opzioni (volumi, comandi, luminosità, difficoltà(vite/danni subiti))
+   - esci
+
+* Gioco
+   - Scegli tipo di omino
+   - Nome
+   - Abbigliamento(?)
+
+* Salvataggi
+   - Disponibili solo in determinati punti (stazioni di salvataggio)
+
+* Inventario
+   - Zaino con posti limitati (gonnellino di Eta Beta)
+
+* Combattimento
+   - gruppo contro gruppo/protagonista
+   - a turni
+   - stile pokemon mistery dungeon
+
+* IA in combattimento
+   - attacca quello con più vita
+   - attacca quello con meno difesa
+   - attacca sempre uno se il danno è fatale
+
+* Nomi oggetti/posti/personaggi
+   - fantasynamesgenerator uber alles
+
+* Cose aggiuntive da considerare se si ha tempo
+   - side quests
+   - presenza di posti bui, illuminabili solo con un oggetto (casco con torcia tipo minatore)
+   - compagni (cane, micio troppo cresciuto)
+   - si vede un lago o un torrente, se ci sono degli alberi vicini puoi costruire una canoa usando un'ascia
+   - ciclo giorno notte (nemici più pericolosi) (bitmap aggiuntive) (aspetta ore come opzione per far finire la notte)
