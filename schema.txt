@@ -1,28 +1,29 @@
-* Caricamento (da ripetersi)
+* Splash di caricamento (da ripetersi)
 
 * Titolo (immagine, schiavizzare qualcuno per farla)
 
 * Menù
    - nuova partita
    - carica partita (stato salvato in file?)
-   - opzioni (volumi, comandi, luminosità, difficoltà(vite/danni subiti))
+   - opzioni (volumi, comandi, luminosità, difficoltà(basata su vita/ moltiplicatore danni subiti))
    - esci
 
 * Gioco
-   - Scegli tipo di omino
-   - Nome
-   - Abbigliamento(?)
+   - scegli tipo di omino
+   - nome
+   - abbigliamento(?)
 
 * Salvataggi
-   - Disponibili solo in determinati punti (stazioni di salvataggio)
+   - disponibili solo in determinati punti (stazioni di salvataggio) (elementi da salvare: numero della stazione (da convertire
+     in coordinate), inventario, ultimo trigger della storia, eventuali flag per dialoghi già avvenuti)
 
 * Inventario
-   - Zaino con posti limitati (gonnellino di Eta Beta)
+   - zaino con posti limitati (gonnellino di Eta Beta)
 
 * Combattimento
    - gruppo contro gruppo/protagonista
    - a turni
-   - stile pokemon mistery dungeon
+   - stile pokemon/FF
 
 * IA in combattimento
    - attacca quello con più vita
@@ -31,6 +32,14 @@
 
 * Nomi oggetti/posti/personaggi
    - fantasynamesgenerator uber alles
+
+* Inizio
+   - viene proposto il motivo dell'avventura
+   - qualcuno si offre di addestrare il protagonista
+   - scelta della classe
+   - tutorial
+   - cambio della sprite, magari con un "un anno dopo"
+   - dotazione iniziale
 
 * Cose aggiuntive da considerare se si ha tempo
    - side quests
