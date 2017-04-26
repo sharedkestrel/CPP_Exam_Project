@@ -44,6 +44,7 @@
    - nel creare la classe di un NPC, specificare il path dei suoi sprite (./assets/sprites/NPC/), così da poter rendere i metodi universali
    - parametro che definisca quanto uno è abituato con un genere di arma, moltipicatore dei danni (?)
    - trigger che impedisca al personaggio/a tutti (eccezioni a parte) di muoversi durante dialoghi/cutscenes
+   - trovare il modo di avere personaggi con dialoghi che si estono per più finestre
 
 * Cose aggiuntive da considerare se si ha tempo
    - side quests
