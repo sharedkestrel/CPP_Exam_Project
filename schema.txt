@@ -26,7 +26,7 @@
    - stile pokemon/FF
 
 * IA in combattimento
-   - attacca quello con più vita/attacca quello con meno difesa
+   - attacca quello con meno vita/attacca quello con meno difesa
    - attacca sempre uno se il danno è fatale
 
 * Nomi oggetti/posti/personaggi
