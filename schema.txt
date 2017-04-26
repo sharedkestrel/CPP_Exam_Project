@@ -41,6 +41,11 @@
    - cambio della sprite, magari con un "un anno dopo"
    - dotazione iniziale
 
+* NOTE GENERALI
+   - nel creare la classe di un NPC, specificare il path dei suoi sprite (./assets/sprites/NPC/), così da poter rendere i metodi universali
+   - parametro che definisca quanto uno è abituato con un genere di arma, moltipicatore dei danni (?)
+   
+
 * Cose aggiuntive da considerare se si ha tempo
    - side quests
    - presenza di posti bui, illuminabili solo con un oggetto (casco con torcia tipo minatore)
