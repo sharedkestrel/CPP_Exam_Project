@@ -48,6 +48,7 @@
    - possibilità di aggiungere un parametro strenght che limita il peso del Gear (classe nello schema) utilizzabile dal PG
    - le varie classi hanno paramentri di strenght diversi (i tank ovviamente più elevata, i DPS più bassa)
    - ogni classe ha una passiva unica
+   - DONDO NPC
 
 * Cose aggiuntive da considerare se si ha tempo
    - side quests
