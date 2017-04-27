@@ -54,3 +54,4 @@
    - compagni (cane, micio troppo cresciuto)
    - si vede un lago o un torrente, se ci sono degli alberi vicini puoi costruire una canoa usando un'ascia
    - ciclo giorno notte (nemici più pericolosi) (bitmap aggiuntive) (aspetta ore come opzione per far finire la notte)
+   - mappa
