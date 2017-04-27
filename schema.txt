@@ -46,6 +46,7 @@
    - trigger che impedisca al personaggio/a tutti (eccezioni a parte) di muoversi durante dialoghi/cutscenes
    - trovare il modo di avere personaggi con dialoghi che si estono per più finestre
    - possibilità di aggiungere un parametro strenght che limita il peso del Gear (classe nello schema) utilizzabile dal PG
+   - le varie classi hanno paramentri di strenght diversi (i tank ovviamente più elevata, i DPS più bassa)
 
 * Cose aggiuntive da considerare se si ha tempo
    - side quests
