@@ -57,3 +57,4 @@
    - mappa
    - durante la navigazione nella mappa non vengono caricate tutte le sprite, ma solo i "chunk" più vicini all'utente --
               (inoltre, grotte/foreste/dungeon che permettono di non avere tutta la mappa caricata nello stesso momento)
+   - inserimento di splash con scritto "Capitolo %i" per poter settare dei trigger della storia e dare un senso di completamento
