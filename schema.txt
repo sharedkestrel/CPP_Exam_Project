@@ -55,3 +55,5 @@
    - si vede un lago o un torrente, se ci sono degli alberi vicini puoi costruire una canoa usando un'ascia
    - ciclo giorno notte (nemici più pericolosi) (bitmap aggiuntive) (aspetta ore come opzione per far finire la notte)
    - mappa
+   - durante la navigazione nella mappa non vengono caricate tutte le sprite, ma solo i "chunk" più vicini all'utente --
+              (inoltre, grotte/foreste/dungeon che permettono di non avere tutta la mappa caricata nello stesso momento)
