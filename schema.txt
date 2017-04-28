@@ -24,6 +24,8 @@
    - gruppo contro gruppo/protagonista
    - a turni
    - stile pokemon/FF
+   - il protagonista ha vari attacchi, ognuno può consumare da 0 a infiniti shots in base al danno/rischio
+   - se possibile dare a ogni classe un attacco da usare se senza arma
 
 * IA in combattimento
    - attacca quello con meno vita/attacca quello con meno difesa
