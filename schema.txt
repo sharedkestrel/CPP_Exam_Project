@@ -1,4 +1,4 @@
-* Splash di caricamento (da ripetersi)
+﻿* Splash di caricamento (da ripetersi)
 
 * Titolo (immagine, schiavizzare qualcuno per farla)
 
@@ -41,6 +41,19 @@
    - tutorial
    - cambio della sprite, magari con un "un anno dopo"
    - dotazione iniziale
+
+* Ambientazioni
+   - Fogne
+   - Treni
+   - Città
+   - Bordello senza donnine nude
+   - Stagno del Dondo
+
+* Oggetti (non vendibili)
+   - Cristallo del teletrasporto
+   - Mappa
+   - Cimeli
+   -
 
 * NOTE GENERALI
    - nel creare la classe di un NPC, specificare il path dei suoi sprite (./assets/sprites/NPC/), così da poter rendere i metodi universali
