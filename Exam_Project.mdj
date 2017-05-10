@@ -14768,7 +14768,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "hpPot",
+											"text": "HpPot",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -15230,7 +15230,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "strenghtPot",
+											"text": "StrenghtPot",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -15688,11 +15688,11 @@
 											"containerExtending": false,
 											"left": 341,
 											"top": 647,
-											"width": 63.54638671875,
+											"width": 64.2763671875,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "poisonPot",
+											"text": "PoisonPot",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -15760,7 +15760,7 @@
 									"containerExtending": false,
 									"left": 336,
 									"top": 640,
-									"width": 73.54638671875,
+									"width": 74.2763671875,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -15806,7 +15806,7 @@
 											"containerExtending": false,
 											"left": 341,
 											"top": 670,
-											"width": 63.54638671875,
+											"width": 64.2763671875,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
@@ -15827,7 +15827,7 @@
 									"containerExtending": false,
 									"left": 336,
 									"top": 665,
-									"width": 73.54638671875,
+									"width": 74.2763671875,
 									"height": 23,
 									"autoResize": false
 								},
@@ -15851,7 +15851,7 @@
 									"containerExtending": false,
 									"left": 336,
 									"top": 688,
-									"width": 73.54638671875,
+									"width": 74.2763671875,
 									"height": 10,
 									"autoResize": false
 								},
@@ -15915,7 +15915,7 @@
 							"containerExtending": false,
 							"left": 336,
 							"top": 640,
-							"width": 73.54638671875,
+							"width": 74.2763671875,
 							"height": 58,
 							"autoResize": false,
 							"stereotypeDisplay": "label",
@@ -17012,11 +17012,11 @@
 											"containerExtending": false,
 											"left": 429,
 											"top": 631,
-											"width": 48.419921875,
+											"width": 52.03173828125,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "tearGas",
+											"text": "TearGas",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -17084,7 +17084,7 @@
 									"containerExtending": false,
 									"left": 424,
 									"top": 624,
-									"width": 58.419921875,
+									"width": 62.03173828125,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -17120,7 +17120,7 @@
 									"containerExtending": false,
 									"left": 424,
 									"top": 649,
-									"width": 58.419921875,
+									"width": 62.03173828125,
 									"height": 10,
 									"autoResize": false
 								},
@@ -17144,7 +17144,7 @@
 									"containerExtending": false,
 									"left": 424,
 									"top": 659,
-									"width": 58.419921875,
+									"width": 62.03173828125,
 									"height": 10,
 									"autoResize": false
 								},
@@ -17208,7 +17208,7 @@
 							"containerExtending": false,
 							"left": 424,
 							"top": 624,
-							"width": 58.419921875,
+							"width": 62.03173828125,
 							"height": 45,
 							"autoResize": false,
 							"stereotypeDisplay": "label",
@@ -17266,7 +17266,7 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 481,
+									"left": 482,
 									"top": 692,
 									"width": 0,
 									"height": 13,
@@ -17300,7 +17300,7 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 495,
+									"left": 496,
 									"top": 688,
 									"width": 0,
 									"height": 13,
@@ -17334,7 +17334,7 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 452,
+									"left": 453,
 									"top": 699,
 									"width": 0,
 									"height": 13,
@@ -17367,7 +17367,7 @@
 								"$ref": "AAAAAAFb3pdUZFkV45c="
 							},
 							"lineStyle": 1,
-							"points": "458:669;476:735",
+							"points": "460:669;477:735",
 							"stereotypeDisplay": "label",
 							"showVisibility": true,
 							"showProperty": true,
@@ -17447,7 +17447,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "molotov",
+											"text": "Molotov",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -17934,11 +17934,11 @@
 											"containerExtending": false,
 											"left": 309,
 											"top": 711,
-											"width": 56.37353515625,
+											"width": 57.103515625,
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "paralisys",
+											"text": "Paralisys",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5,
 											"wordWrap": false
@@ -18006,7 +18006,7 @@
 									"containerExtending": false,
 									"left": 304,
 									"top": 704,
-									"width": 66.37353515625,
+									"width": 67.103515625,
 									"height": 25,
 									"autoResize": false,
 									"stereotypeLabel": {
@@ -18042,7 +18042,7 @@
 									"containerExtending": false,
 									"left": 304,
 									"top": 729,
-									"width": 66.37353515625,
+									"width": 67.103515625,
 									"height": 10,
 									"autoResize": false
 								},
@@ -18066,7 +18066,7 @@
 									"containerExtending": false,
 									"left": 304,
 									"top": 739,
-									"width": 66.37353515625,
+									"width": 67.103515625,
 									"height": 10,
 									"autoResize": false
 								},
@@ -18130,7 +18130,7 @@
 							"containerExtending": false,
 							"left": 304,
 							"top": 704,
-							"width": 66.37353515625,
+							"width": 67.103515625,
 							"height": 45,
 							"autoResize": false,
 							"stereotypeDisplay": "label",
@@ -18188,7 +18188,7 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 407,
+									"left": 408,
 									"top": 722,
 									"width": 0,
 									"height": 13,
@@ -18222,7 +18222,7 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 411,
+									"left": 412,
 									"top": 707,
 									"width": 0,
 									"height": 13,
@@ -18256,7 +18256,7 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 400,
+									"left": 401,
 									"top": 751,
 									"width": 0,
 									"height": 13,
@@ -18289,7 +18289,7 @@
 								"$ref": "AAAAAAFb3piAtFu+jEM="
 							},
 							"lineStyle": 1,
-							"points": "370:735;439:752",
+							"points": "371:735;439:752",
 							"stereotypeDisplay": "label",
 							"showVisibility": true,
 							"showProperty": true,
@@ -23663,7 +23663,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "hpPot",
+					"name": "HpPot",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -23712,7 +23712,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "strenghtPot",
+					"name": "StrenghtPot",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -23761,7 +23761,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "poisonPot",
+					"name": "PoisonPot",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -23868,7 +23868,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "tearGas",
+					"name": "TearGas",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -23897,7 +23897,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "molotov",
+					"name": "Molotov",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -23964,7 +23964,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "paralisys",
+					"name": "Paralisys",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
@@ -34596,7 +34596,7 @@
 									"containerChangeable": false,
 									"containerExtending": false,
 									"left": 132,
-									"top": 628,
+									"top": 629,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
@@ -34630,7 +34630,7 @@
 									"containerChangeable": false,
 									"containerExtending": false,
 									"left": 122,
-									"top": 617,
+									"top": 618,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
@@ -34663,8 +34663,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 151,
-									"top": 651,
+									"left": 153,
+									"top": 650,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
@@ -35519,8 +35519,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 147,
-									"top": 572,
+									"left": 148,
+									"top": 573,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
@@ -35587,8 +35587,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 140,
-									"top": 601,
+									"left": 141,
+									"top": 602,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
@@ -52744,7 +52744,7 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 865,
+									"left": 864,
 									"top": 735,
 									"width": 0,
 									"height": 13,
@@ -52778,8 +52778,8 @@
 									"showShadow": true,
 									"containerChangeable": false,
 									"containerExtending": false,
-									"left": 848,
-									"top": 776,
+									"left": 850,
+									"top": 778,
 									"width": 0,
 									"height": 13,
 									"autoResize": false,
